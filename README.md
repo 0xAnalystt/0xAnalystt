@@ -76,10 +76,10 @@ Storage architecture demonstrating mappings, arrays, structs, and Solidity data 
 *GitHub stats will go here*
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAnalystt&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=0xAnalystt&theme=tokyonight&hide_border=true" />
 </p>
+
 ## Connect With Me
 Linkedln:
 X:
