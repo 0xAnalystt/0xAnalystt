@@ -72,8 +72,11 @@ Storage architecture demonstrating mappings, arrays, structs, and Solidity data 
 - Secure Smart Contract Patterns
 ---
 
-## GitHub stats
-*GitHub stats and contributions will be added here.*
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xAnalystt&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ## Connect With Me
 Linkedln:
