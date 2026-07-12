@@ -1,20 +1,22 @@
 # Hi, i'm Inyang Fidelis Hamatan "0xAnalyst"
-<p align="center">
-  <img src="./images/banner.png" alt="0xAnalyst Banner" width="100%">
+Smart Contract Engineer
+Desiging, building & testing Web3 protocols with secure engineering practices
+Protocol Engineering | Solidity | Foundry
+Continuously learning across the Web3 ecosystem
+
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
-
-## Tech Stack
-### Language
-- Solidity
-
-### Development
-- Foundry
-- OpenZeppelin
-- Chainlink
-- Git & GitHub
-- Linux
-- Docker
-- VS Code
 
 ---
 ### Current Learning Roadmap
