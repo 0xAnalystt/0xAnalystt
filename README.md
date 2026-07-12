@@ -72,17 +72,26 @@ Storage architecture demonstrating mappings, arrays, structs, and Solidity data 
 - Secure Smart Contract Patterns
 ---
 
-## 📈 GitHub Stats
-*GitHub stats will go here*
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=0xAnalystt&theme=tokyonight&hide_border=true" />
 </p>
 
-## Connect With Me
-Linkedln:
-X:
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/0xAnalystt">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/inyang-fidelis-hamatan">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://x.com/0xAnalyst01">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
 ---
 
 >**"Build with purpose. Test relentlessly. Secure everything."**
