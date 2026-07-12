@@ -1,4 +1,5 @@
-# Hi, i'm Inyang Fidelis Hamatan "0xAnalyst"
+## About Me
+Hi, i'm Inyang Fidelis Hamatan "0xAnalyst"
 Smart Contract Engineer
 Desiging, building & testing Web3 protocols with secure engineering practices
 Protocol Engineering | Solidity | Foundry
@@ -94,4 +95,4 @@ Storage architecture demonstrating mappings, arrays, structs, and Solidity data 
 </p>
 ---
 
->**"Build with purpose. Test relentlessly. Secure everything."**
+>**"Build with Purpose. Test Relentlessly. Secure Everything."**
