@@ -1,12 +1,7 @@
 # Hi, i'm Inyang Fidelis Hamatan "0xAnalyst"
-<p align="left">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&width=1000&lines=Smart+Contract+Engineer;Designing%2C+Building+%26+Testing+Web3+Protocols+with+Secure+Engineering+Practices;Protocol+Engineering+%7C+Solidity+%7C+Foundry;Continuously+Learning+Across+the+Web3+Ecosystem"
-    alt="Typing SVG"
-  />
+<p align="center">
+  <img src="./images/banner.png" alt="0xAnalyst Banner" width="100%">
 </p>
-
----
 
 ## Tech Stack
 ### Language
